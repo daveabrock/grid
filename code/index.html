@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=devide-width, initial-sclae=1.0">
+        <link rel="stylesheet" href="assets/base.css">
+        <title>CSS Grid Demo</title>
+    </head>
+
+    <body>
+        <div class="container">
+            <div class="gridItem item1">1</div>
+            <div class="gridItem item2">2</div>
+            <div class="gridItem item3">3</div>
+            <div class="gridItem item4">4</div>
+            <div class="gridItem item5">5</div>
+            <div class="gridItem item6">6</div>
+            <div class="gridItem item7">7</div>
+            <div class="gridItem item8">8</div>
+            <div class="gridItem item9">9</div>
+            <div class="gridItem item10">10</div>
+            <div class="gridItem item11">11</div>
+            <div class="gridItem item12">12</div>
+        </div>
+        <style>
+            .container {
+                display: grid;
+                grid-template-columns: repeat(4, 1fr);
+                grid-template-rows: 50px 50px 50px;
+                grid-gap: 10px;
+            }
+
+            .item1 {
+                grid-column: 1 / span 2;
+                grid-row: 1 / span 3;
+            }
+        </style>
+    </body>
+</html>
