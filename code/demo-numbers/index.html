@@ -3,7 +3,7 @@
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=devide-width, initial-sclae=1.0">
-        <link rel="stylesheet" href="assets/base.css">
+        <link rel="stylesheet" href="../assets/base.css">
         <title>CSS Grid Demo</title>
     </head>
 
@@ -25,16 +25,17 @@
         <style>
             .container {
                 display: grid;
-                grid-template-columns: repeat(4, 1fr);
+                grid-template-columns: 500px 1fr 2fr;
+                /* grid-template-columns: repeat(4, 1fr);
                 grid-template-rows: 50px 50px 50px;
-                grid-gap: 10px;
+                grid-gap: 10px; */
             }
-
+/* 
             .item1 {
                 grid-column: 1 / span 2;
                 grid-row: 1 / span 3;
                 background: var(--rosegold);
-            }
+            } */
         </style>
     </body>
 </html>
