@@ -21,3 +21,10 @@ The only things certain in life are death, taxes, and hacking your way through a
 
 * [Grid Layout - CSS](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout) (MDN)
 * [CSS Grid Layout Recommendation](https://www.w3.org/TR/css-grid-1/) (W3C)
+
+**History**
+
+I've given this talk at the following events:
+* South Florida Code Camp, February 2018
+* Northeast Wisconsin Code Camp (newCodeCamp), March 2018
+
