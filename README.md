@@ -26,5 +26,5 @@ The only things certain in life are death, taxes, and hacking your way through a
 
 I've given this talk at the following events:
 * South Florida Code Camp, February 2018
-* Northeast Wisconsin Code Camp (newCodeCamp), March 2018
+* Chicago Code Camp, June 2018
 
