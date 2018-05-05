@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-sclae=1.0">
+        <link rel="stylesheet" href="../assets/base.css">
+        <title>CSS Grid Demo</title>
+    </head>
+
+    <body>
+        <div class="container">
+            <div class="gridItem C1">C</div>
+            <div class="gridItem S1">S</div>
+            <div class="gridItem S2">S</div>
+            <div class="gridItem G">G</div>
+            <div class="gridItem R">R</div>
+            <div class="gridItem I1">I</div>
+            <div class="gridItem D">D</div>
+            <div class="gridItem I2">I</div>
+            <div class="gridItem S3">S</div>
+            <div class="gridItem C2">C</div>
+            <div class="gridItem O">O</div>
+            <div class="gridItem O">O</div>
+            <div class="gridItem L">L</div>
+        </div>
+        <style>
+            .container {
+                display: grid;
+                grid-template-columns: 1fr 1fr 1fr;
+                grid-gap: 10px;
+            }
+
+            .C1, .C2 {
+                background-color: burlywood;
+            }
+
+            .S1, .S2, .S3 {
+                background-color: darkgray;
+            }
+
+            .G {
+                background-color: darkseagreen;
+            }
+
+            .R {
+                background-color: gainsboro;
+            }
+
+            .I1, I2 {
+                background-color: goldenrod;
+            }
+
+            .D {
+                background-color: khaki;
+            }
+
+            .O {
+                background-color: lightblue;
+            }
+        </style>
+    </body>
+</html>

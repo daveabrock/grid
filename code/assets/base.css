@@ -25,4 +25,5 @@ html {
     background-color: var(--black);
     color: var(--white);
     border-radius: 5px;
+    height: 200px;
   }
