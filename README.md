@@ -3,7 +3,7 @@ Code and slides for my "Hack-Free Layouts with CSS Grid" presentation.
 
 **Using this solution**
 
-This project has various files that incrementally build on what CSS Grid has to offer. Before you begin, run `npm install` to load all the dependencies. Then, run `npm start.` You should be able to make your changes, which will refresh the page whenever you make a save in your editor of choice.
+This project has various files that incrementally build on what CSS Grid has to offer. Before you begin, run `npm install` to load all the dependencies. Then, run `npm start`. You should be able to make your changes, which will refresh the page whenever you make a save in your editor of choice.
 
 **Abstract**
 
