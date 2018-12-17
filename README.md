@@ -1,4 +1,4 @@
-# Hack-Free Layouts with CSS Grid
+# Hack-Free Layouts with CSS Grid #
 Code and slides for my "Hack-Free Layouts with CSS Grid" presentation.
 
 **Using this solution**
@@ -10,6 +10,7 @@ This project has various files that incrementally build on what CSS Grid has to 
 The only things certain in life are death, taxes, and hacking your way through a CSS layout -- until now. Come for a deep dive on CSS Grid, a framework-free, library-free, layout system that is orchestrated for designing today's modern web applications. After an hour, you'll come away rejuvenated that you don't have to hack layouts any longer - and enjoy designing responsive layouts using only the CSS specification.
 
 **Additional Resources**
+
 * [Grid By Example](https://gridbyexample.com/examples/)
 
 * [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/) (CSS-Tricks)
@@ -24,7 +25,5 @@ The only things certain in life are death, taxes, and hacking your way through a
 
 **History**
 
-I've given this talk at the following events:
-* South Florida Code Camp, February 2018
-* Chicago Code Camp, June 2018
+I've given this talk at the South Florida Code Camp in February 2018.
 
