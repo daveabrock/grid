@@ -25,5 +25,5 @@ The only things certain in life are death, taxes, and hacking your way through a
 
 **History**
 
-I've given this talk at the South Florida Code Camp in February 2018.
+I gave this talk at the South Florida Code Camp in February 2018.
 
